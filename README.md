@@ -10,6 +10,6 @@ A python program that generates programming quotes and jokes.
 - `contributor-3`: Bedewy Farida BN
 
 ## Fork urls
-- `contributor-1`: [quotes-bar-b](url-1)
-- `contributor-2`: [quotes-wizz-b](url-2)
-- `contributor-3`: [quotes-toto-b](url-3)
+- `contributor-1`: [quotes-bedewy-bn](url-1)
+- `contributor-2`: [quotes-seridj-bn](url-2)
+- `contributor-3`: [quotes-gam-bn](url-3)
